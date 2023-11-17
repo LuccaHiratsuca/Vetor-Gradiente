@@ -1,5 +1,9 @@
 # Vetor-Gradiente
 
+## Grupo 5:
+![info](./assets/info.jpg)
+Acima, estão as funções que utilzamos para a realização do projeto.
+
 ## Participantes
 - Alexandre Wever
 - Gabriel Mendes
